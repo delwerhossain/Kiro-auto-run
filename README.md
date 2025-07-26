@@ -25,7 +25,7 @@ Scripts pasted into the Developer Console are **not** saved across reloads. To r
 ### Console Paste Method (Temporary)
 
 1. Open **Kiro IDE** (web or desktop).
-2. Open Developer Tools (`F12` or `Ctrl+Shift+I`).
+2. In **Kiro IDE**, go to the **Help** menu and select **Toggle Developer Tools**.
 3. Switch to the **Console** tab.
 4. Paste in the snippet below and press **Enter**:
 
